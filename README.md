@@ -1,7 +1,7 @@
 # Badursun
 ![alt text](https://github-readme-stats.vercel.app/api?username=badursun&show_icons=true&theme=cobalt)
 
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate Classic ASP Backend Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
