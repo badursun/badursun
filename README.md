@@ -27,7 +27,7 @@ Over the years, I have done a lot of things that are not done with ClassicASP. I
 
 
 # Repos to which I added my love
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library)](/ClassicASP-Master-Library/blob/main/README.md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library)](https://github.com/badursun/ClassicASP-Master-Library/blob/main/README.md)
 
 
 # Swiss army tool without knife
