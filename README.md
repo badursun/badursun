@@ -8,10 +8,11 @@ Over the years, I have done a lot of things that are not done with ClassicASP. I
 📫 Contact with me: badursun[at]gmail.com
 
 # Summing up
-![alt text](https://github-readme-stats.vercel.app/api?username=badursun&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badursun)](#) ![alt text](https://github-readme-stats.vercel.app/api?username=badursun&count_private=true&show_icons=true&theme=dracula)
+
 
 # Wakatime
-[![Badursun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badursun)](https://github.com/anuraghazra/github-readme-stats)
+[![Badursun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badursun)](#)
 
 # A passionate ClassicASP Backend Developer from Turkey
 <p align="left">
