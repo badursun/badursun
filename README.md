@@ -10,10 +10,6 @@ Over the years, I have done a lot of things that are not done with ClassicASP. I
 # Summing up
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badursun&layout=compact)](#) ![alt text](https://github-readme-stats.vercel.app/api?username=badursun&count_private=true&show_icons=true&theme=dracula)
 
-
-# Wakatime
-[![Badursun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badursun)](#)
-
 # A passionate ClassicASP Backend Developer from Turkey
 <p align="left">
 <a href="https://codepen.io/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="badursun" height="30" width="40" /></a>
@@ -27,7 +23,8 @@ Over the years, I have done a lot of things that are not done with ClassicASP. I
 
 
 # Repos to which I added my love
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library)](https://github.com/badursun/ClassicASP-Master-Library/blob/main/README.md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library)](https://github.com/badursun/ClassicASP-Master-Library/blob/main/README.md) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Helper)](https://github.com/badursun/ClassicASP-Helper/blob/main/README.md)
+
 
 
 # Swiss army tool without knife
