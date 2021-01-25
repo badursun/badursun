@@ -23,7 +23,7 @@ Over the years, I have done a lot of things that are not done with ClassicASP. I
 
 
 # Repos to which I added my love
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library)](https://github.com/badursun/ClassicASP-Master-Library/blob/main/README.md) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Helper)](https://github.com/badursun/ClassicASP-Helper/blob/main/README.md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library&theme=dracula)](https://github.com/badursun/ClassicASP-Master-Library/blob/main/README.md) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Helper&theme=dracula)](https://github.com/badursun/ClassicASP-Helper/blob/main/README.md)
 
 
 
