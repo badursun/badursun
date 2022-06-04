@@ -1,9 +1,4 @@
-# Badursun
-I have developed software with ClassicASP for most of my life. I did not choose other software languages because it was pretty lean and easy.
-
-Unlike everyone else; In my opinion, even if ClassicASP is an unsupported software language, you should not expect support from anyone on your way out.
-
-Over the years, I have done a lot of things that are not done with ClassicASP. I keep doing it. Since I have passed 17 years on this road, I present all my resources to you. You will find many resources in my repo. I prepared all of them carefully and meticulously. If you do not understand anything despite all this careful preparation, you are now at the best time and place to quit this job.
+# “Keep your eyes on the stars, and your feet on the ground.”
 
 📫 Contact with me: badursun[at]gmail.com
 
