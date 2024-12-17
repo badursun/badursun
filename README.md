@@ -1,32 +1,105 @@
-# “Keep your eyes on the stars, and your feet on the ground.”
+<h3 align="center">Full-Stack Developer • Solution Architect • DevOps Enthusiast</h3>
 
-📫 Contact with me: badursun[at]gmail.com
+---
+
+<h4 align="center">“Keep your eyes on the stars, and your feet on the ground.”</h4>
+<p align="center">
+    <em>"Code is my canvas, systems are my architecture, and innovation is the masterpiece."</em>
+</p>
+
+---
+
+A **full-stack developer** with 17+ years of experience, blending razor-sharp **problem-solving** with an obsession for **performance and scalability**. I design solutions that don’t just work – they **dominate**.  
+I am a perpetual **learner**, a **builder of systems**, and a passionate technologist who thrives at the intersection of **software, logic, and creativity**.
+
+---
+
+### ⚡ **Core Expertise**
+#### 🛠️ **Languages & Frameworks**
+![ASP Classic](https://img.shields.io/badge/ASP-Classic-00599C?style=flat-square&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![True BASIC](https://img.shields.io/badge/True_BASIC-000000?style=flat-square&logoColor=white)
+![BASIC](https://img.shields.io/badge/BASIC-808080?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+#### 💾 **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D11?style=flat-square&logo=railway&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+#### 🖥️ **Tools & Platforms**
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-FF9800?style=flat-square&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF5722?style=flat-square&logo=brave&logoColor=white)
+![Progressive Web Apps](https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![KRPano](https://img.shields.io/badge/KRPano-000000?style=flat-square&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+#### 🎨 **Design & Creative Tools**
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+#### 🐧 **Operating Systems & Linux Distros**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
+
+#### 🤖 **AI & Automation Tools**
+![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat-square&logo=artstation&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF4500?style=flat-square&logo=power-automate&logoColor=white)
+
+---
+
+### 🛠️ **How I Work**
+- **Code:** Clean, scalable, and performance-optimized.  
+- **Solutions:** Logic-driven, secure, and future-proof.  
+- **Mindset:** Focused on **efficiency**, innovation, and leaving a mark.
+
+---
+
+### 💡 **Beyond the Code**
+Outside of tech, I'm always exploring:  
+- **Systematic Solutions:** I thrive on crafting solutions that simplify complexity.  
+- **AI & Automation:** Where human potential meets machine brilliance.  
+- **Data Analysis:** Turning raw data into actionable insights.  
+
+---
+
+### 📫 **Let’s Connect**
+If you share a passion for solving problems, building exceptional systems, or just want to talk about tech:  
+- **LinkedIn:** [linkedin.com/in/badursun](https://tr.linkedin.com/in/badursun)
+- **Email:** ** badursun[at]gmail.com**
+- **Blog:** ** [burakdursun.com](https://burakdursun.com)**
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=badursun&show_icons=true&theme=tokyonight" alt="Anthony Burak's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badursun&layout=compact" />
+</p>
+
+<p align="center">
+    <em>“Code the impossible. Build the extraordinary.”</em>
+</p>
 
 # Git Warehouse
 | | Public Git Page | Repositories |
 | ------------- | ------------- | ------------- |
-|<img align="center" src="https://repository-images.githubusercontent.com/454292503/573ecf43-48cb-44e3-be75-a75bb49df5d1" height="60" />|[CloudFlare DNS Template Generator](https://badursun.github.io/Cloudflare-DNS-Template-Generator/)|[Repo Link](https://github.com/badursun/Cloudflare-DNS-Template-Generator)|
-|<img align="center" src="https://repository-images.githubusercontent.com/454292503/573ecf43-48cb-44e3-be75-a75bb49df5d1" height="60" />|[HTML E-Mail Signature Generator](https://badursun.github.io/HTML-Email-Sign-Creator/)|[Repo Link](https://github.com/badursun/HTML-Email-Sign-Creator)|
-
-# Summing up
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badursun&layout=compact)](#) ![alt text](https://github-readme-stats.vercel.app/api?username=badursun&count_private=true&show_icons=true&theme=dracula)
-
-# A passionate ClassicASP Backend Developer from Turkey
-<p align="left">
-<a href="https://codepen.io/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="badursun" height="30" width="40" /></a>
-<a href="https://dev.to/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="badursun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="badursun" height="30" width="40" /></a>
-<a href="https://fb.com/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="badursun" height="30" width="40" /></a>
-<a href="https://instagram.com/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="badursun" height="30" width="40" /></a>
-<a href="https://medium.com/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="badursun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/badursun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="badursun" height="30" width="40" /></a>
-</p>
-
-
-# Repos to which I added my love
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Master-Library&theme=dracula)](https://github.com/badursun/ClassicASP-Master-Library) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=badursun&repo=ClassicASP-Helper&theme=dracula)](https://github.com/badursun/ClassicASP-Helper)
-
-
-
-# Swiss army tool without knife
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+|*|[CloudFlare DNS Template Generator](https://badursun.github.io/Cloudflare-DNS-Template-Generator/)|[Repo Link](https://github.com/badursun/Cloudflare-DNS-Template-Generator)|
+|*|[HTML E-Mail Signature Generator](https://badursun.github.io/HTML-Email-Sign-Creator/)|[Repo Link](https://github.com/badursun/HTML-Email-Sign-Creator)|
