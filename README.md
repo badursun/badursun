@@ -14,8 +14,8 @@ I am a perpetual **learner**, a **builder of systems**, and a passionate technol
 
 ---
 
-### ⚡ **Core Expertise**
-#### 🛠️ **Languages & Frameworks**
+### **Core Expertise**
+#### **Languages & Frameworks**
 ![ASP Classic](https://img.shields.io/badge/ASP-Classic-00599C?style=flat-square&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -29,18 +29,18 @@ I am a perpetual **learner**, a **builder of systems**, and a passionate technol
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-#### 💾 **Databases**
+#### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-#### ☁️ **Cloud & DevOps**
+#### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D11?style=flat-square&logo=railway&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-#### 🖥️ **Tools & Platforms**
+#### **Tools & Platforms**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-FF9800?style=flat-square&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
@@ -49,32 +49,21 @@ I am a perpetual **learner**, a **builder of systems**, and a passionate technol
 ![KRPano](https://img.shields.io/badge/KRPano-000000?style=flat-square&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-#### 🎨 **Design & Creative Tools**
+#### **Design & Creative Tools**
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-#### 🐧 **Operating Systems & Linux Distros**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
-
-#### 🤖 **AI & Automation Tools**
-![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat-square&logo=artstation&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF4500?style=flat-square&logo=power-automate&logoColor=white)
-
 ---
 
-### 🛠️ **How I Work**
+### **How I Work**
 - **Code:** Clean, scalable, and performance-optimized.  
 - **Solutions:** Logic-driven, secure, and future-proof.  
 - **Mindset:** Focused on **efficiency**, innovation, and leaving a mark.
 
 ---
 
-### 💡 **Beyond the Code**
+### **Beyond the Code**
 Outside of tech, I'm always exploring:  
 - **Systematic Solutions:** I thrive on crafting solutions that simplify complexity.  
 - **AI & Automation:** Where human potential meets machine brilliance.  
@@ -82,7 +71,7 @@ Outside of tech, I'm always exploring:
 
 ---
 
-### 📫 **Let’s Connect**
+### **Let’s Connect**
 If you share a passion for solving problems, building exceptional systems, or just want to talk about tech:  
 - **LinkedIn:** [linkedin.com/in/badursun](https://tr.linkedin.com/in/badursun)
 - **Email:** ** badursun[at]gmail.com**
@@ -98,8 +87,14 @@ If you share a passion for solving problems, building exceptional systems, or ju
     <em>“Code the impossible. Build the extraordinary.”</em>
 </p>
 
-# Git Warehouse
-| | Public Git Page | Repositories |
+# Classic ASP Training Repo with Advanced Techniques
+
+| | Description | Repo |
 | ------------- | ------------- | ------------- |
-|*|[CloudFlare DNS Template Generator](https://badursun.github.io/Cloudflare-DNS-Template-Generator/)|[Repo Link](https://github.com/badursun/Cloudflare-DNS-Template-Generator)|
-|*|[HTML E-Mail Signature Generator](https://badursun.github.io/HTML-Email-Sign-Creator/)|[Repo Link](https://github.com/badursun/HTML-Email-Sign-Creator)|
+|1|Classic ASP Method Chaining (fluent interfaces)|[https://github.com/badursun/Classic-ASP-Method-Chaining-Class](https://github.com/badursun/Classic-ASP-Method-Chaining-Class)|
+
+# Git Warehouse (Just for me)
+| | Git Page |
+| ------------- | ------------- |
+|*|[CloudFlare DNS Template Generator](https://badursun.github.io/Cloudflare-DNS-Template-Generator/)|
+|*|[HTML E-Mail Signature Generator](https://badursun.github.io/HTML-Email-Sign-Creator/)|
