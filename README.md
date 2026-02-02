@@ -1,5 +1,12 @@
-<h3 align="center">Full-Stack Developer • Solution Architect • DevOps Enthusiast</h3>
-
+<div align="center">
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anthony%20Burak%20Dursun&desc=Full-Stack%20Developer%20•%20Solution%20Architect%20•%20DevOps%20Enthusiast&descAlign=50&descAlignY=64&fontSize=60" width="100%" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=badursun&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/badursun?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/badursun?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Stars" />
+  </p>
+</div>
 ---
 
 <h4 align="center">“Keep your eyes on the stars, and your feet on the ground.”</h4>
