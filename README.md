@@ -21,6 +21,12 @@ I am a perpetual **learner**, a **builder of systems**, and a passionate technol
 
 ---
 
+<div align="center">
+![badursun's Terrain](https://gitcraft.badursun.dev/badge/badursun?type=landmass&palette=terrain&v=5)
+</div>
+
+---
+
 ### **Core Expertise**
 #### **Languages & Frameworks**
 ![ASP Classic](https://img.shields.io/badge/ASP-Classic-00599C?style=flat-square&logo=html5&logoColor=white)
@@ -85,12 +91,6 @@ If you share a passion for solving problems, building exceptional systems, or ju
 - **Blog:** ** [burakdursun.com](https://burakdursun.com)**
 
 ---
-
-<p align="center">
-
-![GitCraft Terrain](https://gitcraft.badursun.dev/badge/badursun?v=2&type=landmass&palette=terrain)
-
-</p>
 
 <p align="center">
     <em>“Code the impossible. Build the extraordinary.”</em>
