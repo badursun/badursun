@@ -87,7 +87,7 @@ If you share a passion for solving problems, building exceptional systems, or ju
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=badursun&show_icons=true&theme=tokyonight" alt="Anthony Burak's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badursun&layout=compact" />
+![badursun's Terrain](https://gitcraft.badursun.dev/badge/badursun?type=landmass&palette=terrain)
 </p>
 
 <p align="center">
