@@ -88,7 +88,7 @@ If you share a passion for solving problems, building exceptional systems, or ju
 
 <p align="center">
 
-  ![badursun's Terrain](https://gitcraft.badursun.dev/badge/badursun?type=landmass&palette=terrain)
+![GitCraft Terrain](https://gitcraft.badursun.dev/badge/badursun?v=2&type=landmass&palette=terrain)
 
 </p>
 
