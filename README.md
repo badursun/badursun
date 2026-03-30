@@ -22,7 +22,7 @@ I am a perpetual **learner**, a **builder of systems**, and a passionate technol
 ---
 
 <div align="center">
-![badursun's Terrain](https://gitcraft.badursun.dev/badge/badursun?type=landmass&palette=terrain&v=5)
+<img src="https://gitcraft.badursun.dev/badge/badursun?type=landmass&palette=terrain&v=5" />
 </div>
 
 ---
