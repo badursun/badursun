@@ -23,7 +23,7 @@ I am a perpetual **learner**, a **builder of systems**, and a passionate technol
 
 <div align="center">
 
-  ![badursun's Terrain](https://gitcraft.badursun.dev/badge/badursun/landmass/terrain)
+  ![badursun's Terrain](https://gitcraft.badursun.dev/badge/badursun/landmass/terrain?v=1234)
 
 </div>
 
